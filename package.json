@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "This is example git about FER201m",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy832002/FER201m-SP24_FPTU.git"
+  },
+  "author": "Unknown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy832002/FER201m-SP24_FPTU/issues"
+  },
+  "homepage": "https://github.com/huy832002/FER201m-SP24_FPTU#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
