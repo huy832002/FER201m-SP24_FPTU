@@ -1,0 +1,9 @@
+Các lệnh cmd phổ biến:
+npx create-react-app my-app
+npm install react-router-dom
+npm install axios
+npm install @mui/material @emotion/react @emotion/styled
+npm create vite@latest
+npm install formik –-save
+npm install yup
+npm install --save react-toastify
